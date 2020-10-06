@@ -1,0 +1,53 @@
+{
+  "title": "Ôn tập nhanh giải thuật Dijkstra",
+  "surveyOrQuiz": "quiz",
+  "quickOrFull": "quick",
+  "questions": [
+      {
+          "type": "multiple",
+          "title": "Độ phức tạp giải thuật Dijkstra trong đồ thị có hướng N đỉnh M cạnh?",
+          "choices": [
+              {
+                  "id": 1,
+                  "value": "O(1)",
+                  "isCorrect": false
+              },
+              {
+                  "id": 2,
+                  "value": "O(sqrt(N))",
+                  "isCorrect": false
+              },
+              {
+                  "id": 3,
+                  "value": "O(logN)",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "value": "O(N)",
+                  "isCorrect": false
+              },
+              {
+                  "id": 5,
+                  "value": "O(NlogN)",
+                  "isCorrect": true
+              },
+              {
+                  "id": 6,
+                  "value": "O(N^2)",
+                  "isCorrect": true
+              },
+              {
+                  "id": 7,
+                  "value": "O(N * sqrt(N))",
+                  "isCorrect": false
+              },
+              {
+                  "id": 8,
+                  "value": "O(N^3)",
+                  "isCorrect": false
+              }
+          ]
+      }
+  ]
+}

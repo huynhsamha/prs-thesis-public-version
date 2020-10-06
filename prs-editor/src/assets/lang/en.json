@@ -1,0 +1,112 @@
+{
+  "guide": "Guide",
+  "logout": "Logout",
+  "login": "Login",
+  "message": {
+    "confirm": {
+      "logout": "Are you sure to logout this session?",
+      "createPoll": "Are you sure to create this poll?",
+      "updatePoll": "Are you sure to update this poll?",
+      "createSession": "Are you sure to create this session?",
+      "updateSession": "Are you sure to update this session?",
+      "activeSession": "Are you sure to active this session?"
+    },
+    "common": {
+      "error": "Something is error"
+    },
+    "alert": {
+      "missing": "Please fill out the form",
+      "json-incorrect": "JSON Schema without correct format"
+    },
+    "success": {
+      "createPoll": "Poll is created successfully",
+      "createSession": "Session is created successfully",
+      "updatePoll": "Poll is updated successfully",
+      "updateSession": "Session is updated successfully",
+      "activeSession": "Session is active successfully"
+    },
+    "questions-more-than-1": "Questionnaire has more than 1 question"
+  },
+  "title": {
+    "list": {
+      "poll": {
+        "created": "List of created polls",
+        "shared": "List of shared polls",
+        "common": "List of polls"
+      },
+      "session": {
+        "recently": "List of recent sessions",
+        "finished": "List of finished sessions",
+        "running": "List of running sessions",
+        "future": "List of future sessions"
+      }
+    },
+    "poll": "Poll title",
+    "import-json": "Import from JSON format",
+    "select-poll-type": "Select poll type",
+    "new-session": "Create new session",
+    "edit-session": "Edit session",
+    "session-detail": "Session detail",
+    "session-info": "Session infomation"
+  },
+  "my-polls": "My polls",
+  "shared-polls": "Shared polls",
+  "new": "New",
+  "import": "Import",
+  "new-poll": "Create new poll",
+  "survey": "Survey",
+  "quiz": "Quiz",
+  "or": "or",
+  "and": "and",
+  "quick": "Quick form",
+  "full": "Set of questions",
+  "questionnaire": "Questionnaire",
+  "export-json": "Export JSON",
+  "complete": "Complete",
+  "name": "Name",
+  "type": "Type",
+  "createdAt": "Created At",
+  "updatedAt": "Updated At",
+  "action": "Action",
+  "edit-json": "Edit JSON",
+  "edit": "Edit",
+  "edit-poll": "Edit poll",
+  "single-choice": "Single choice",
+  "multiple-choices": "Multiple choices",
+  "input-text": "Input text",
+  "single-label": "Single choice",
+  "multiple-label": "Multiple choices",
+  "text-label": "Input text",
+  "preview": "Preview",
+  "back": "Back",
+  "recently": "Recently",
+  "running": "Running",
+  "finished": "Finished",
+  "title-session": "Title",
+  "select-poll": "Select poll",
+  "session-type": "Session type",
+  "public-session": "Public session",
+  "session-password": "Session password (no required)",
+  "select-class": "Select a group to use session",
+  "error": "Error",
+  "session-duration": "Pick session duration",
+  "placeholder": {
+    "session-name": "Session name"
+  },
+  "status": "Status",
+  "active": "Active",
+  "duration": "Duration",
+  "inactive": "Inactive",
+  "go-edit": "Open editing page",
+  "modal-download-json": "View and download JSON format",
+  "go-report": "Open statistic page",
+  "go-session-detail": "Open session detail page",
+  "play-session": "Start session",
+  "pause-session": "Stop session",
+  "new-session": "Create new session from this poll",
+  "share-poll": "Share this poll",
+  "session-name": "Name",
+  "poll": "Poll",
+  "activeTime": "Active time",
+  "openPresentMode": "Open present mode"
+}

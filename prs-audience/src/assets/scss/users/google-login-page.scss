@@ -1,0 +1,35 @@
+.input-code {
+	height: 100vh;
+  background: url('../../img/bg02.jpg') no-repeat center;
+  background-size: cover;
+  .layer {
+      background-color: #000000a2;
+      height: 100vh;
+  }
+  form {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+			width: 100%;
+			max-width: 315px;
+      padding: 25px 20px 10px 25px;
+      border-radius: 8px;
+      background-color: white;
+      h3 {
+          color: #273c9b;
+          margin-top: 25px;
+          margin-bottom: 15px;
+      }
+      img {
+        margin-bottom: 25px;
+      }
+  }
+  .login-footer {
+    position: fixed;
+    bottom: 15px;
+    color: #bfbfbf;
+    width: 100%;
+    text-align: center;
+  }
+}

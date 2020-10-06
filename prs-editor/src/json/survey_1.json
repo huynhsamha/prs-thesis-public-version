@@ -1,0 +1,84 @@
+{
+  "title": "Khảo sát thói quen đọc sách của sinh viên",
+  "surveyOrQuiz": "survey",
+  "quickOrFull": "full",
+  "questions": [
+      {
+          "type": "single",
+          "title": "Bạn đọc sách bao nhiêu ngày trong tuần?",
+          "choices": [
+              {
+                  "id": 1,
+                  "value": "1 ngày",
+                  "isCorrect": false
+              },
+              {
+                  "id": 2,
+                  "value": "2 ngày",
+                  "isCorrect": false
+              },
+              {
+                  "id": 3,
+                  "value": "3 ngày",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "value": "4 ngày",
+                  "isCorrect": false
+              },
+              {
+                  "id": 5,
+                  "value": "5 ngày",
+                  "isCorrect": false
+              },
+              {
+                  "id": 6,
+                  "value": "6 ngày",
+                  "isCorrect": false
+              },
+              {
+                  "id": 7,
+                  "value": "Cả tuần",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "type": "multiple",
+          "title": "Những loại sách nào bạn hay đọc?",
+          "choices": [
+              {
+                  "id": 1,
+                  "value": "Khoa học",
+                  "isCorrect": false
+              },
+              {
+                  "id": 2,
+                  "value": "Văn học",
+                  "isCorrect": false
+              },
+              {
+                  "id": 3,
+                  "value": "Viễn tưởng",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "value": "Truyện tranh",
+                  "isCorrect": false
+              },
+              {
+                  "id": 5,
+                  "value": "Thơ ca",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "type": "text",
+          "title": "Bạn nhận xét gì về lợi ích của đọc sách",
+          "choices": []
+      }
+  ]
+}

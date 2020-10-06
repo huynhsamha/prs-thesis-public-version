@@ -1,0 +1,84 @@
+{
+  "title": "Bài kiểm tra kiến thức đồ thị 2",
+  "surveyOrQuiz": "quiz",
+  "quickOrFull": "full",
+  "questions": [
+      {
+          "type": "single",
+          "title": "Giải thuật tìm kiếm theo chiều sâu?",
+          "choices": [
+              {
+                  "id": 1,
+                  "value": "BFS",
+                  "isCorrect": false
+              },
+              {
+                  "id": 2,
+                  "value": "DFS",
+                  "isCorrect": true
+              }
+          ]
+      },
+      {
+          "type": "single",
+          "title": "Giải thuật tìm kiếm theo chiều rộng?",
+          "choices": [
+              {
+                  "id": 1,
+                  "value": "DFS",
+                  "isCorrect": false
+              },
+              {
+                  "id": 2,
+                  "value": "BFS",
+                  "isCorrect": true
+              }
+          ]
+      },
+      {
+          "type": "multiple",
+          "title": "Giải thuật tìm cây khung trên đồ thị?",
+          "choices": [
+              {
+                  "id": 1,
+                  "value": "Kruskal",
+                  "isCorrect": true
+              },
+              {
+                  "id": 2,
+                  "value": "Dijkstra",
+                  "isCorrect": false
+              },
+              {
+                  "id": 3,
+                  "value": "Floyd",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "value": "Prim",
+                  "isCorrect": true
+              },
+              {
+                  "id": 5,
+                  "value": "Bellmanford",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "type": "text",
+          "title": "Giải thuật Dijkstra có độ phức tạp tối ưu là bao nhiêu trong đồ thị có hướng N đỉnh M cạnh?",
+          "choices": [
+              {
+                  "id": 1,
+                  "value": "O(NlogN)"
+              },
+              {
+                  "id": 2,
+                  "value": "O(N^2)"
+              }
+          ]
+      }
+  ]
+}

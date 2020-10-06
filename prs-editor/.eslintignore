@@ -1,0 +1,13 @@
+!.eslintrc.js
+documentation/
+build/
+
+
+node_modules/*
+coverage/*
+dist/*
+dll/*
+build/*
+public/lib/*
+vendors/*
+lib/*

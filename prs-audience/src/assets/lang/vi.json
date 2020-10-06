@@ -1,0 +1,111 @@
+{
+  "guide": "Hướng dẫn",
+  "logout": "Đăng xuất",
+  "login": "Đăng nhập",
+  "message": {
+    "confirm": {
+      "logout": "Bạn thực sự muốn đăng xuất?",
+      "createPoll": "Bạn xác nhận sẽ tạo câu hỏi này?",
+      "updatePoll": "Bạn xác nhận sẽ cập nhật câu hỏi này?",
+      "createSession": "Bạn xác nhận sẽ tạo session này?",
+      "updateSession": "Bạn xác nhận sẽ cập nhật session này?",
+      "activeSession": "Bạn xác nhận sẽ kích hoạt session này?"
+    },
+    "common": {
+      "error": "Đã có lỗi xảy ra"
+    },
+    "alert": {
+      "missing": "Vui lòng hoàn thành đầy đủ thông tin",
+      "json-incorrect": "JSON Schema không đúng định dạng"
+    },
+    "success": {
+      "createPoll": "Câu hỏi đã được tạo thành công",
+      "createSession": "Session đã được tạo thành công",
+      "updatePoll": "Câu hỏi đã được cập nhật thành công",
+      "updateSession": "Session đã được cập nhật thành công",
+      "activeSession": "Session đã được kích hoạt thành công"
+    },
+    "questions-more-than-1": "Hiện tại bộ câu hỏi đang tạo nhiều hơn 1 câu"
+  },
+  "title": {
+    "list": {
+      "poll": {
+        "created": "Danh sách các câu hỏi đã tạo",
+        "shared": "Danh sách các câu hỏi được chia sẻ",
+        "common": "Danh sách các câu hỏi"
+      },
+      "session": {
+        "recently": "Danh sách các sessions gần đây",
+        "finished": "Danh sách các sessions đã kết thúc",
+        "running": "Danh sách các sessions đang hoạt động",
+        "future": "Danh sách các sessions chưa active"
+      }
+    },
+    "poll": "Tiêu đề câu hỏi",
+    "import-json": "Import từ định dạng JSON",
+    "select-poll-type": "Lựa chọn kiểu câu hỏi muốn tạo",
+    "new-session": "Tạo mới session",
+    "edit-session": "Tùy chỉnh session",
+    "session-detail": "Chi tiết session",
+    "session-info": "Thông tin session"
+  },
+  "my-polls": "Đã tạo",
+  "shared-polls": "Được chia sẻ",
+  "new": "Tạo mới",
+  "import": "Import",
+  "new-poll": "Tạo mới mẫu câu hỏi",
+  "survey": "Mẫu khảo sát",
+  "quiz": "Mẫu kiểm tra",
+  "or": "hay",
+  "and": "và",
+  "quick": "Mẫu câu hỏi nhanh",
+  "full": "Bộ câu hỏi",
+  "questionnaire": "Danh sách câu hỏi",
+  "export-json": "Xuất mẫu JSON",
+  "complete": "Hoàn tất",
+  "name": "Tên",
+  "type": "Loại",
+  "createdAt": "Ngày tạo",
+  "updatedAt": "Cập nhật lần cuối",
+  "action": "Thao tác",
+  "edit-json": "Tùy chỉnh JSON",
+  "edit": "Chỉnh sửa",
+  "edit-poll": "Chỉnh sửa mẫu câu hỏi",
+  "single-choice": "Một lựa chọn",
+  "multiple-choices": "Nhiều lựa chọn",
+  "input-text": "Người dùng nhập",
+  "single-label": "Một lựa chọn",
+  "multiple-label": "Nhiều lựa chọn",
+  "text-label": "Người dùng nhập",
+  "preview": "Xem trước",
+  "back": "Quay trở lại",
+  "recently": "Gần đây",
+  "running": "Đang hoạt động",
+  "finished": "Đã kết thúc",
+  "title-session": "Tên session",
+  "select-poll": "Chọn câu hỏi cho session",
+  "session-type": "Loại session",
+  "public-session": "Public session",
+  "select-class": "Chọn nhóm đối tượng cho session",
+  "error": "Lỗi",
+  "session-duration": "Thời lượng session",
+  "placeholder": {
+    "session-name": "Tên cho session"
+  },
+  "status": "Trạng thái",
+  "active": "Đang hoạt động",
+  "duration": "Thời lượng",
+  "inactive": "Chưa hoạt động",
+  "go-edit": "Vào trang tùy chỉnh",
+  "modal-download-json": "Xem và tải định dạng JSON",
+  "go-report": "Vào trang thống kê kết quả",
+  "go-session-detail": "Xem chi tiết sesssion",
+  "play-session": "Kích hoạt session",
+  "pause-session": "Dừng session",
+  "new-session": "Tạo mới session từ câu hỏi này",
+  "share-poll": "Chia sẻ mẫu câu hỏi",
+  "session-name": "Tên",
+  "poll": "Bộ câu hỏi",
+  "activeTime": "Thời gian kích hoạt",
+  "openPresentMode": "Chế độ trình chiếu"
+}

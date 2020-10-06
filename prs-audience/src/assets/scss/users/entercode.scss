@@ -1,0 +1,20 @@
+.enter-code {
+  display: flex;
+  justify-content: center;
+
+  form {
+    // max-width: 320px;
+    // padding: 25px 15px 25px 15px;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 8px;
+    background-color: #e6e6e6;
+    text-align: center;
+
+    button {
+      width: 100%;
+      max-width: 210px;
+    }
+  }
+}
