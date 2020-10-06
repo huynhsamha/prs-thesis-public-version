@@ -1,6 +1,6 @@
 # PRS Thesis Public Version
 
-_This is a **public version** for our team thesis source code at Bach Khoa University, Vietnam. The reason we open this code is to allow next generation of students who intend to improve the thesis can refer. This source code was hidden private and sensitive information that we'd used during deployment._
+_This is a **public version** of our team thesis source code at Bach Khoa University, Vietnam. The reason we open this code is to allow the next generation of students who intend to improve the thesis can refer to. This source code was hidden private and sensitive information that we'd used during deployment._
 
 ## Quick start
 
