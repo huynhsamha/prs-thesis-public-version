@@ -1,0 +1,137 @@
+{
+  "title": "Câu hỏi trắc nghiệm môn Lịch sử Đảng",
+  "surveyOrQuiz": "quiz",
+  "quickOrFull": "full",
+  "questions": [
+    {
+      "type": "single",
+      "title": "Hội nghị lần thứ 11 của Ban chấp hành Quốc tế Cộng sản đã quyết định công nhân đảng ta là một chi bộ độc lập của Quốc tế Cộng sản vào thời gian nào?",
+      "choices": [
+        {
+          "id": 1,
+          "value": "11-11-1930",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "value": "11-11-1931",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "value": "11-01-1930",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "value": "11-01-1931",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Ban thường vụ Trung ương Đảng ra chỉ thị thành lập Hội phản đế đồng minh vào lúc nào?",
+      "choices": [
+        {
+          "id": 1,
+          "value": "18-10-1928",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "value": "18-10-1930",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "value": "18-11-1928",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "value": "18-11-1930",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Đồng chí Trần Phú bị bắt ngày 19-4-1931 ở đâu?",
+      "choices": [
+        {
+          "id": 1,
+          "value": "Đà Nẵng",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "value": "Huế",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "value": "Sài Gòn",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "value": "Hương Cảng",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Được sự chỉ đạo của Quốc tế cộng sản ban chấp hành lãnh đạo của đảng ở nước ngoài được thành lập vào năm nào?",
+      "choices": [
+        {
+          "id": 1,
+          "value": "1931",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "value": "1932",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "value": "1933",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "value": "1934",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Được sự chỉ đạo của Quốc tế Cộng sản, ban lãnh đạo của đảng ở nước ngoài do ai đứng đầu?",
+      "choices": [
+        {
+          "id": 1,
+          "value": "Lê Hồng Phong",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "value": "Nguyễn Ái Quốc",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "value": "Trần Phú",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "value": "Nguyễn Phú Trọng",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

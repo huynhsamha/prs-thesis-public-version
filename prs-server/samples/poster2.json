@@ -1,0 +1,179 @@
+{
+  "title": "Mẫu khảo sát đánh giá Poster Luận văn tốt nghiệp HK 192",
+  "surveyOrQuiz": "survey",
+  "quickOrFull": "full",
+  "questions": [
+    {
+      "type": "single",
+      "title": "Cảm nhận ĐẦU TIÊN của bạn về poster trình bày như thế nào?",
+      "choices": [
+        {
+          "id": 1,
+          "value": "Trực quan, bắt mắt, sinh động, tạo hứng thú tìm hiểu",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "value": "Trực quan, sinh động nhưng tương đối quen thuộc, dễ dàng nhận biết",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "value": "Trực quan, tối giản và dễ hiểu",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "value": "Rườm rà, phức tạp, không có hứng thú",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Bạn nhận thấy BỐ CỤC trình bày poster có hợp lý không?",
+      "choices": [
+        {
+          "id": 1,
+          "value": "Bố cục rõ ràng, dẫn dắt hợp lý cho người xem",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "value": "Đầy đủ các phần tuy nhiên bố cục còn một số hạn chế",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "value": "Bố cục lộn xộn, đem lại cảm giác khó hiểu",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "value": "Không có điểm nhấn rõ ràng về các phần trình bày",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Bạn nhận thấy MÀU SẮC thể hiện trên poster có hợp lý không?",
+      "choices": [
+        {
+          "id": 1,
+          "value": "Phối màu hợp lý, bắt mắt, rõ ràng",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "value": "Tương đối hợp lý",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "value": "Khá sơ sài, đơn giản",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "value": "Quá phức tạp, khó nhận diện",
+          "isCorrect": false
+        }
+      ]
+    },
+   
+    {
+      "type": "single",
+      "title": "Bạn đánh giá như thế nào về NỘI DUNG và PHÔNG CHỮ trong poster?",
+      "choices": [
+        {
+          "id": 1,
+          "value": "Đầy đủ, dễ nhìn và hợp lý",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "value": "Phông chữ rõ ràng nhưng nội dung còn thiếu sót",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "value": "Nội dung đầy đủ nhưng phông chữ không hợp lý",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "value": "Nội dung chứa quá nhiều thông tin không cần thiết",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "type": "multiple",
+      "title": "Bạn ĐÁNH GIÁ CAO về điều gì cho poster này?",
+      "choices": [
+        {
+          "id": 1,
+          "value": "Tính sáng tạo trong cách thể hiện",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "value": "Tính thẩm mĩ trong cách thể hiện",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "value": "Cách thể hiện nội dung và bố cục",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "value": "Cách sử dụng hình ảnh trong poster",
+          "isCorrect": false
+        },
+        {
+          "id": 5,
+          "value": "Kết quả hoặc sản phẩm của đề tài được thể hiện trong poster",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Bạn đánh giá cho poster này bao nhiêu điểm trên thang điểm 5",
+      "choices": [
+        {
+          "id": 1,
+          "value": "5 điểm",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "value": "4 điểm",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "value": "3 điểm",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "value": "2 điểm",
+          "isCorrect": false
+        },
+        {
+          "id": 5,
+          "value": "1 điểm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Những góp ý khác từ bạn cho poster và nhóm thực hiện",
+      "choices": []
+    }
+  ]
+}

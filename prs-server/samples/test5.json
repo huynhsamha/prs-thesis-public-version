@@ -1,0 +1,137 @@
+{
+  "title": "Bài kiểm tra giữa kì Chủ nghĩa Mác - Lênin (HK 161)",
+  "surveyOrQuiz": "quiz",
+  "quickOrFull": "full",
+  "questions": [
+    {
+      "type": "single",
+      "title": "Đặc điểm cơ bản của chủ nghĩa Mác giai đoạn 1842 – 1844",
+      "choices": [
+        {
+          "id": 1,
+          "value": "Kế tục triết học Hê-ghen.",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "value": "Phê phán các thành tựu triết học của nhân loại.",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "value": "Sự chuyển biến về tư tưởng từ chủ nghĩa duy tâm và dân chủ cách mạng sang chủnghĩa duy vật và cộng sản chủ nghĩa.",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "value": "Phê phán tôn giáo.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Xét về lịch sử hình thành và giá trị tư tưởng thì chủ nghĩa Ph.Ăngghen ở giai đoạn1844 – 1848",
+      "choices": [
+        {
+          "id": 1,
+          "value": "Tiếp tục hoàn thành các tác phẩm triết học nhằm phê phán tôn giáo.",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "value": "Hình thành những nguyên lý triết học duy vật biện chứng, duy vật lịch sử và chủnghĩa xã hội khoa học.",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "value": "Nghiên cứu về vai trò của hoạt động thực tiễn đối với nhận thức.",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "value": "Hoàn thành bộ “Tư Bản”.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Tác phẩm nào được xem là văn kiện có tính chất cương lĩnh đầu tiên của chủ nghĩaMác?",
+      "choices": [
+        {
+          "id": 1,
+          "value": "Bản thảo kinh tế - triết học năm 1844.",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "value": "Tuyên ngôn của Đảng Cộng sản.",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "value": "Hệ tư tưởng Đức.",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "value": "Gia đình thần thánh.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Tác phẩm là quan trọng và điển hình nhất của chủ nghĩa Mác trong giai đoạn1848 – 1895?",
+      "choices": [
+        {
+          "id": 1,
+          "value": "Chống Duy-rinh",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "value": "Biện chứng của tự nhiên",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "value": "Bộ Tư bản",
+          "isCorrect": true
+        },
+        {
+          "id": 4,
+          "value": "Nguồn gốc của gia đình, của chế độ tư hữu và của nhà nước",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "type": "single",
+      "title": "Trong giai đoạn từ năm 1876 đến năm 1878, tác phẩm nào của Ph.Ăngghen đã chỉra mối liên hệ hữu cơ giữa ba bộ phận hợp thành chủ nghĩa Mác?",
+      "choices": [
+        {
+          "id": 1,
+          "value": "Chống Duy-rinh",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "value": "Biện chứng của tư nhiên",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "value": "Nguồn gốc của gia đình, của chế độ tư hữu và của nhà nước",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "value": "Lút-vích Phoi-ơ-bắc và sự cáo chung của triết học cổ điển Đức",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
