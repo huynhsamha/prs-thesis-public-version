@@ -31,3 +31,7 @@ The motivation of this thesis is to provide a system that
 We've researched Personal Response System and related products, after that we design and build a *core PRS system*. We've also applied **the blockchain technology** to our PRS system to resolve the second target we defined.
 
 The detailed system architecture is written to our thesis report.
+
+## Authors
+
+The authors of this thesis is [me](https://github.com/huynhsamha) and [hacba98](http://github.com/hacba98).
